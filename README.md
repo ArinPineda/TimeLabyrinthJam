@@ -14,3 +14,6 @@ https://assetstore.unity.com/packages/3d/prototyping-pack-free-94277
 https://assetstore.unity.com/packages/3d/vegetation/trees/yughues-free-palm-trees-13540
 
 **NOTE:** Please Not Modified the content opf the assets, instead create a copy in a working folder to avoid upload a lot of assets and lock the repository.
+
+* GDD- Documentation of the game and the phases
+https://drive.google.com/drive/folders/1UjSajd6TgPMJ2WuC8FH1N7mfzJRkfe1l?usp=sharing
